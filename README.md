@@ -2,12 +2,6 @@
 ## Road Map
 !['Web keyzz'](images/webkwyz.png)
 
-## Table of Contents
-* [Contact](#ภาษาที่ใช้)
-* [Contact](#ช่องทางการติดต่อ)
-<!-- * [License](#license) -->
-
-
 
 ## ภาษาที่ใช้
 - HTML
